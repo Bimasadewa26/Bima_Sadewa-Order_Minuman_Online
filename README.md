@@ -6,6 +6,6 @@
     -flowchart.drawio
     -pseudocode.txt
     -README.md 
-
+    
     Dikerjakan oleh :
 - `Bima Sadewa - BE5145264`
